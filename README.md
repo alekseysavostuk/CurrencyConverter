@@ -1,16 +1,3 @@
-# currency_converter
+# 💱 Currency Converter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mobile application built with Flutter for real-time currency conversion. The app fetches the latest exchange rates from a public API and provides users with an intuitive interface for quick and accurate calculations.
